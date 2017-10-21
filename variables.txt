@@ -1,0 +1,11 @@
+def main():
+    b=10
+    c=50
+    e=b+c
+    print(e)
+
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+60
